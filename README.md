@@ -4,7 +4,7 @@ But : découverte de Sign in with Google PHP API.
 
 ```temps estimé entre 30 min et 2 heures```
 
-Implementer la connexion via google sur le code https://github.com/mastergoster/google_sign_in
+Implementer la connexion via google sur le code https://github.com/mastergoster/google_sign_in (fork sur votre compte)
 
 pour demarer le docker ```docker-compose up -d``` /!\ port: 8080 /!\ 
 		
