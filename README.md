@@ -2,7 +2,7 @@
 
 But : découverte de Sign in with Google PHP API.
 
-```temps estimer entre 30 min et 2 heures```
+```temps estimé entre 30 min et 2 heures```
 
 Implementer la connexion via google sur le code https://github.com/mastergoster/google_sign_in
 
