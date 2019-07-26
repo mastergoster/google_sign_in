@@ -20,3 +20,7 @@ ressources : https://getcomposer.org/
 ressources : https://developers.google.com/identity/sign-in/web/  
 ressources : https://github.com/googleapis/google-api-php-client  
 ressources : https://www.youtube.com/watch?v=lAqOZ3nXG7o  
+
+
+PROJET A RENDRE SUR GITHUB LE 29/07/2019 à 9H
+/!\ Attention à ne pas versionner vos clées API /!\
