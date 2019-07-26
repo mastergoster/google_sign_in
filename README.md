@@ -16,7 +16,7 @@ pour demarer le docker ```docker-compose up -d``` /!\ port: 8080 /!\
 Bonus :  Implementer la connexion via Facebook
 
 
-ressources : https://getcomposer.org/
-ressources : https://developers.google.com/identity/sign-in/web/
-ressources : https://github.com/googleapis/google-api-php-client
-ressources : https://www.youtube.com/watch?v=lAqOZ3nXG7o
+ressources : https://getcomposer.org/  
+ressources : https://developers.google.com/identity/sign-in/web/  
+ressources : https://github.com/googleapis/google-api-php-client  
+ressources : https://www.youtube.com/watch?v=lAqOZ3nXG7o  
